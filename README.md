@@ -29,7 +29,7 @@ Carbon\_Emission\_Prediction analyzes global CO₂ emissions, providing interact
 ## ⚡️ Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/Carbon_Emission_Prediction.git
+git clone https://github.com/Yogeshwarypl/Carbon_Emission_Prediction.git
 cd Carbon_Emission_Prediction
 pip install -r requirements.txt
 streamlit run app.py
