@@ -1,4 +1,4 @@
-# 🌍 Carbon\_Emission\_Prediction
+# 🌍 Carbon\_Emission\_Prediction Week 1 Submission
 
 ## 📋 Project Description
 
